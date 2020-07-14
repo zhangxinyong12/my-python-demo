@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9a62e2f-9841-4fcc-917e-86810a54901c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/day0713.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day0714.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day0713.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/day0713.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,29 +36,9 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Python.day0713">
-    <configuration name="day008" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="my-demo" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/day008.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.day0714">
     <configuration name="day009" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="my-demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -142,13 +123,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="day0714" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="my-demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/day0714.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.day0714" />
         <item itemvalue="Python.day0713" />
         <item itemvalue="Python.day010" />
         <item itemvalue="Python.day0409" />
         <item itemvalue="Python.day009" />
-        <item itemvalue="Python.day008" />
       </list>
     </recent_temporary>
   </component>
@@ -202,36 +204,37 @@
     <option name="LAST_COMMIT_MESSAGE" value="class" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="439" y="0" key="CommitChangelistDialog2" timestamp="1586965799112">
+    <state x="439" y="0" key="CommitChangelistDialog2" timestamp="1594655257432">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state x="439" y="0" key="CommitChangelistDialog2/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1594655257432" />
     <state x="439" y="0" key="CommitChangelistDialog2/0.0.1536.824/-1920.5.1920.1040@0.0.1536.824" timestamp="1586965799112" />
     <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1586655066789">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1586655066789" />
-    <state width="1515" height="261" key="GridCell.Tab.0.bottom" timestamp="1594491517930">
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom" timestamp="1594739938619">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1594491517930" />
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1594739938619" />
     <state width="1515" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.5.1920.1040@0.0.1536.824" timestamp="1587395610665" />
     <state width="1515" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586567957882" />
-    <state width="1515" height="261" key="GridCell.Tab.0.center" timestamp="1594491517930">
+    <state width="1515" height="210" key="GridCell.Tab.0.center" timestamp="1594739938619">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="261" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1594491517930" />
+    <state width="1515" height="210" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1594739938619" />
     <state width="1515" height="210" key="GridCell.Tab.0.center/0.0.1536.824/-1920.5.1920.1040@0.0.1536.824" timestamp="1587395610665" />
     <state width="1515" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586567957882" />
-    <state width="1515" height="261" key="GridCell.Tab.0.left" timestamp="1594491517930">
+    <state width="1515" height="210" key="GridCell.Tab.0.left" timestamp="1594739938618">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="261" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1594491517930" />
+    <state width="1515" height="210" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1594739938618" />
     <state width="1515" height="210" key="GridCell.Tab.0.left/0.0.1536.824/-1920.5.1920.1040@0.0.1536.824" timestamp="1587395610665" />
     <state width="1515" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586567957882" />
-    <state width="1515" height="261" key="GridCell.Tab.0.right" timestamp="1594491517930">
+    <state width="1515" height="210" key="GridCell.Tab.0.right" timestamp="1594739938619">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="261" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1594491517930" />
+    <state width="1515" height="210" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1594739938619" />
     <state width="1515" height="210" key="GridCell.Tab.0.right/0.0.1536.824/-1920.5.1920.1040@0.0.1536.824" timestamp="1587395610665" />
     <state width="1515" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586567957882" />
     <state width="1515" height="261" key="GridCell.Tab.1.bottom" timestamp="1594491517931">
@@ -254,5 +257,13 @@
     </state>
     <state width="1515" height="261" key="GridCell.Tab.1.right/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1594491517931" />
     <state width="1515" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1586567957852" />
+    <state x="270" y="54" key="SettingsEditor" timestamp="1594739919897">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="54" key="SettingsEditor/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1594739919897" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1594655267885">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1594655267885" />
   </component>
 </project>
