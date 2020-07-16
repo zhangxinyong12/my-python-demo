@@ -47,3 +47,22 @@ w = Work('001', 'lilei', 2000, 160, 2)
 s = w.getSalary()
 print(s)
 w.eat('西瓜')
+
+
+# p164
+
+class Student:
+    def __init__(self, age):
+        self.__age = age
+
+    @property
+    def age(self):
+        return self.__age
+
+    @age.setter
+    def age(self, age):
+        self.__age = age
+
+
+s = Student(20)
+print(s.age)
