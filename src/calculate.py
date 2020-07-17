@@ -7,3 +7,7 @@ def add(*args):
     else:
         print('至少需要2个参数')
         return None
+
+
+print(111)
+print('__name__:',__name__)

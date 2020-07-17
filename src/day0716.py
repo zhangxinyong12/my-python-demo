@@ -32,8 +32,13 @@ print(n1, n2)
 print(n1 == n2)
 
 # 模块
-import calculate
-
+# import calculate
+#
 list1 = [1, 2, 3, 4, 5, 6, 7, 8, 9]
-res=calculate.add(*list1)
+# res=calculate.add(*list1)
+# print(res)
+
+from calculate import add
+
+res = add(*list1)
 print(res)
