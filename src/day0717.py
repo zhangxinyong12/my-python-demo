@@ -7,3 +7,7 @@ p1.login('zhang', '22222')
 p1.show()
 
 # p170
+# p173
+
+import sys
+print(sys.path)
